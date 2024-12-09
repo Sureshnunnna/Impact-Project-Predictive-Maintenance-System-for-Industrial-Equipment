@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c8a85204-ef46-45f1-afa3-149c2845cee9)# Impact-Project-Predictive-Maintenance-System-for-Industrial-Equipment
+# Impact-Project-Predictive-Maintenance-System-for-Industrial-Equipment
 Objective
 
 To develop a predictive maintenance system that minimizes equipment downtime and operational costs by using real-time data to forecast potential failures.
