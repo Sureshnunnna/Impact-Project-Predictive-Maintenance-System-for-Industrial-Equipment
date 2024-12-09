@@ -1,4 +1,4 @@
-# Impact-Project-Predictive-Maintenance-System-for-Industrial-Equipment
+![image](https://github.com/user-attachments/assets/c8a85204-ef46-45f1-afa3-149c2845cee9)# Impact-Project-Predictive-Maintenance-System-for-Industrial-Equipment
 Objective
 
 To develop a predictive maintenance system that minimizes equipment downtime and operational costs by using real-time data to forecast potential failures.
@@ -119,3 +119,14 @@ print(f"Random Forest Prediction (0 = No Maintenance, 1 = Maintenance Required):
 # Real-time simulation for Logistic Regression prediction
 prediction_lr = logistic_model.predict(new_data_scaled)
 print(f"Logistic Regression Prediction (0 = No Maintenance, 1 = Maintenance Required): {prediction_lr[0]}")
+
+OUTPUT
+
+![image](https://github.com/user-attachments/assets/cd2633bd-2c9f-4f96-b703-023eb004daea)
+
+![image](https://github.com/user-attachments/assets/4a6251dc-e5fd-4d84-8742-798a06cd59c4)
+
+
+
+
+
